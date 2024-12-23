@@ -1,1 +1,39 @@
-# ECON3000990080
+java c
+ECON30009/90080   Macroeconomics 
+Assignment 1 
+(Due   no   later   than   August   23,   Friday,   4pm) 
+Assignment Overview 
+❼ This assignment asks you   to   study   the   implications   of the   life-cycle   model   with   growth   and   to   document   and   explain   updated   facts   on   cross-country   differences   in   long-run   growth.
+❼ Please   type   the    solutions   to   your   assignment   (e.g.,   in   Word   or   LaTeX)   and   convert   them to a PDF file for online submission through Gradescope on the LMS. Handwritten   submissions   can   also   be   scanned   and   submitted   through   Gradescope   as   a   PDF,   but   they   must   be   legible   for   marking.
+❼ Please note this is a group assignment with up to 4 students per group. You can form your groups directly in Gradescope. You don’t need to be   in   the   same   tutorial   to   form   a   group   and   you   can   submit   your   assignment   individually   if   you prefer.
+❼ All students within the   same   group   will   receive   the   same   mark   and   no   two   groups   may   submit   the   same   assignment.    You   can   collaborate   with   members   of   your   own   group   (and   all   group   members   must   provide   input),   but   not   with   other   groups. Please list all members of your group clearly on the first page of your submission and   make   sure   you   keep   draft   copies   of your   own   working   (for   each   member   of the   group).
+❼ This assignment should reflect your own work and ideas (see   also   the   section: Artificial Intelligence Software in the Preparation of Material for Assess- ment in   the   Subject   Guide).   AI   assistance   tools   are   not   required   for   this   assignment,   but   if you   do   use   them   it   should   be   for editing and proofing of your work only.   Any   use   of AI   tools   for   editing   purposes   needs   to   be   clearly   acknowledged   at   the   start   of   your   assignment. Further   information   on   the   acceptable   use   of   these   tools   can   be   found here.
+Question 1: The Lifecycle Model and Convergence (25 marks in total) 
+Consider   the   life-cycle   model   discussed   in   Lectures   3-5,   but   now   suppose   that   each   young   individual   born   in   period   t   has   the   following   preferences:
+where   cyt      is   consumption   when   working   in   period   t,   cot+1      is   consumption   when   retired in   period   t +   1,   γ   >   0,   and   ρ   >   0   are   positive   parameters   and   exp(.)   is   the   exponen-   tial   function.      As   in   the   lectures,   assume   that   individuals   supply   one   unit   of   labour inelastically   and   receive   real   wage   wt    per   unit   of labour   supplied.
+(a)    (4   marks)   Show   that   these   preferences   are   well   behaved.    That   is,   the   marginal   utility   of   consuming   in   each   period   is   positive,   but   diminishing.
+(b)    (4   marks)   Write   down   the   individual   lifetime   budget   constraint.   Write   down   the individuals’ utility   maximisation   problem   and   use   the   first-order   conditions   of   this problem   to   derive   the   individual   Euler   equation.    Explain   the   intuition   underlying   this   equation   and   the   role   of the   parameter   ρ   .
+(c)    (4 marks) Now using your   Euler equation and the lifetime budget constraint,   solve   for   optimal   consumption   when   working   (cyt)   and   saving   (at+1)   as   functions   of   the real   wage   (wt)   and   real   net   return   to   saving   (rt+1).
+(d)    (5 marks) Assuming firms   use   a   Cobb-Douglas   production   function   in   labour   and   capital   and   operate   under   perfect   competition (as   we   assumed   in   the   lecture),   derive   an implicit transiti代 写ECON30009/90080 Macroeconomics Assignment 1Python
+代做程序编程语言on   equation   for   the   aggregate   capital-labour   ratio   over time   in   kt+1 and kt in   this   economy. By implicit,    here   we   mean      a   transition equation   of   the   form   F(kt+1,   kt   ) = 0.
+(e)    (4    marks)   Use   the   Implicit   Function   Theorem   to   show   under   what   conditions   that   kt+1      is   increasing   in   kt   ,   that   is   the   transition   equation   is   upward   slowing with  > 0.(f)    (4   marks)   Assuming   or   taking   the   limit   as   ρ   approaches   1,   graph   your   transition   equation.   Briefly discuss how your results compare those discussed in the lectures.
+Question 2: Empirical Facts on LR Growth Across Countries 
+(25 marks in total) 
+Download   the   latest   version   of the   Penn   World   Tables   (version   10.01)   from:
+https://www.rug.nl/ggdc/productivity/pwt/ in   either   Excel   or   as   a   Stata   Data   file.   In   this   question,   feel   free   to   use   your   favourite   software   or   coding   language   to   answer   these   questions   (R,   Python,   Stata,   Eviews,   Excel   etc.). However,   please   include   your   final   answers   in   a   PDF   as part of your submission through   Gradescope   (via   the   LMS).
+(a)    (5 marks) Compute the average long-run growth rate in output per capita   (defined   as   the   annual   average   (compound)   growth   rate   in   output   per   capita   from   1960   to   2019)   for   all   countries   where   data   are   available. For   output,   use   the   measure “redgpe” that   denotes   expenditure-side   real   GDP   at   chained   PPPs   (in   millions   2017   $US)   and   for   population   use   “pop”   that   denotes   population   (in   millions).
+(b)    (5   marks)   Graph   a   histogram   of   the   average   annual   per   capita   country   growth   rates across countries for   1960–2019   (using approximately   20   bins)   and   report   the   mean and standard deviation   (again for all countries where data for   1960 and   2019   are   available).   How   does   the   average   long-run   per   capita   growth   across   countries   compare   with   that   of the   US   as   we   discussed   in   the   lecture?
+(c)    (5   marks)   Graph   a   scatter   plot   of the   average   annual   growth   rate   in   output   per capita for each country   (as computed in   (a))   on   the   x-axis   against   the   level   of real   output   per   capita   in   1960   on   the   y-axis   (again   for   all   countries   where   data   are   available),   together   with   a   line   of   best   fit. Using   the   information   in   your   scatter plot   together   with   a   regression   of   average   annual   growth   in   output   per   capita   from   1960 to   2019,   on   output   per   capita   in   1960,   is there   evidence   of convergence   in   the   level   of output   per   capita   across   countries?
+(d)    (5    marks)    Now restrict the   sample   to   current    OECD member   countries   only.   Repeat   the   steps   in   parts   (b)   and   (c). Explain   any   differences   or   similarities   in   your   answers   in   terms   of the   mean   and   standard   deviation   of growth   rates   across   the   samples,   and   in   the   scatter   plot   and   the   growth   regression.
+(e)    (5   marks)   Relate   your   findings   to   the   simple   life-cycle   model   of growth   discussed   in   the   lectures. In   particular, briefly   explain   whether   that   model   predicts   conver-   gence   in   output   per   capita   across   countries   (or   not)   and   discuss   the   factors   that   explain   any   similarities   (or   differences)   between   your   empirical   findings   and   the   predictions   of the   simple   life-cycle   model.
+
+
+
+
+
+
+
+
+
+         
+加QQ：99515681  WX：codinghelp  Email: 99515681@qq.com
